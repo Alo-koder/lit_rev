@@ -9,4 +9,9 @@
 		1. Basics with [[Turner 1958]]
 	2. Phase Response Functions
 		1. Widespread in biology; give some article examples
-		2. 
+
+
+
+---
+
+Just an idea now -- I should write the review on the system as a whole, focusing on the chemistry/physics. I can include non-linear dynamics on top of that.
