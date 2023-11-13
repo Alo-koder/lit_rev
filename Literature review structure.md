@@ -36,10 +36,12 @@
 
 ## Take 3
 
+### Title: Anodic electrodissolution of silicone -- an overview 
+
 0. Abstract
 1. Introduction
-	* 'One of the most intensely studied electrochemical reactions'
-	* Widely (?? need to check if someone outside of our group is doing this) used for studies of nonlinear oscillators
+	* _"One of the most intensely studied electrochemical reactions"_ ([[Schönleber2012.pdf]], 1st intro sentence)
+	* Widely (?? need to check if someone outside of our group is doing this) used for studies of nonlinear oscillators (📑Yuki's thesis, Juliane's thesis)
 	* Porous silicon has some uses in photo-electronics [[Rauscher 2001]]
 2. Discussion
 	1. Discovery
@@ -49,5 +51,11 @@
 		2. The role of external resistance: [[Schönleber 2012]]
 	3. Theoretical efforts
 		1. Stability analysis: [[Rauscher 2001]]
+	4. Non-linear coupling
+		1. Yuki's thesis again
 		2. 
 3. Conclusions & Future Outlook
+	1. Although it was researched for a long time, there are still gaps in understanding, e.g. we don't have a nice system of diff eq's yet
+	2. Would be nice to finally fully understand the reaction mechanism
+	3. We'd like to know more about coupling, therefore we need a phase response function
+
