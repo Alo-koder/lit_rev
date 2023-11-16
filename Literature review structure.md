@@ -36,7 +36,7 @@
 
 ## Take 3
 
-### Title: Anodic electrodissolution of silicone -- an overview 
+### Title: Anodic electrodissolution of silicon -- an overview 
 
 0. Abstract
 1. Introduction
@@ -58,4 +58,6 @@
 	1. Although it was researched for a long time, there are still gaps in understanding, e.g. we don't have a nice system of diff eq's yet
 	2. Would be nice to finally fully understand the reaction mechanism
 	3. We'd like to know more about coupling, therefore we need a phase response function
+
+The book has an excellent chapter summarising the efforts in determining how the oscillations work. My topic has to be broader, or otherwise I could just copy that chapter heh. Instead of that, I should focus more on the 'cool' non-linear dynamics stuff from our research group... but what if I really just copy the book❓
 
