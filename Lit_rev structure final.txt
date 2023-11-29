@@ -2,7 +2,6 @@
 
 0. Abstract
 1. Introduction
-	* Chemical oscillations -- thought to be impossible, but then Zhabotinsky ❗❗Actually, reactions similar to what I do were known earlier. That impossible thing was about oscillations in a _closed_ system❗❗
 	* _"One of the most intensely studied electrochemical reactions"_ ([[Schönleber2012.pdf]], 1st intro sentence)
 	* Similarly to the Zhabotinsky reaction, instead of simply approaching the thermodynamical equilibrium, it oscillates
 	* Interesting, because it can be used for studies of nonlinear oscillators (citing papers of my research group)
