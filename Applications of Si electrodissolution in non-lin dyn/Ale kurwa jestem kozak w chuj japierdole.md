@@ -3,7 +3,11 @@ New title: **\`Applications of the silicon electrodissolution system in the fiel
 
 
 List of papers:
-* Schonleber https://doi.org/10.1002/cphc.201200230
+* Schonleber 2012 https://doi.org/10.1002/cphc.201200230
+* Schonleber 2014 -- chimeras
+* Bichaoticity Tosolini 2019
+* Pattern formation Patzauer 2017
+* Biryhthmicity Juliane 2021
 
 Networks of oscillators:
 
