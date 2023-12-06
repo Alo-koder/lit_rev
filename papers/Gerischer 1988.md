@@ -6,6 +6,7 @@
 * Basically same experiment as what we're doing
 * N-type silicon with illumination
 * Confirms the crucial role of holes
+* Shows damped oscillations for U=3.6V
 
 [pdf](pdfs/Gerischer1988.pdf)
 

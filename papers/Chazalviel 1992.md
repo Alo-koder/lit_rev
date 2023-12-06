@@ -1,6 +1,9 @@
 
 **The p-Si/fluoride interface in the anodic region: damped and/or sustained oscillations**
 
+* Previous authors didn't consider resistance
+* More resistance = better coupling = more pronounced oscillations  
+
 citation:
 ```
 @article{chazalviel1992,
