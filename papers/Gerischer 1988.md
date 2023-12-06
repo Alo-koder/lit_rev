@@ -6,6 +6,7 @@
 * Basically same experiment as what we're doing
 * N-type silicon with illumination
 * Confirms the crucial role of holes
+* Proposes three voltage regions for dampened, sustained and chaos. Later disproven by [[Chazalviel 1992]]
 
 [pdf](pdfs/Gerischer1988.pdf)
 

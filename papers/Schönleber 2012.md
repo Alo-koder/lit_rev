@@ -1,7 +1,5 @@
 #important 
-**High-Amplitude versus Low-Amplitude Current
-Oscillations during the Anodic Oxidation of p-Type Silicon
-in Fluoride Containing Electrolytes**
+**High-Amplitude versus Low-Amplitude Current Oscillations during the Anodic Oxidation of p-Type Silicon in Fluoride Containing Electrolytes**
 
 * #question Why are they measuring potential instead of current?
 * This is most likely the ___crucial___ paper explaining what's going on

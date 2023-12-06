@@ -1,6 +1,8 @@
 
 **The p-Si/fluoride interface in the anodic region: damped and/or sustained oscillations**
 
+* External resistance as global coupling
+
 citation:
 ```
 @article{chazalviel1992,
