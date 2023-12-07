@@ -4,8 +4,9 @@
 
 * Orlik 2009 (review): _Self-organization in nonlinear dynamical systems and its relation to the materials science_
 * Ma 2017 (review): _A review for dynamics in neuron and neuronal network_
+* TODO find a citation for medical research!
 
-## Foundations
+## Quasi Theoretical Foundations
 
 * Turing 1952: _The chemical basis of morphogenesis_
 	* Predicts/explains that chemical oscillations can only occur when there's a significant difference between concentration timescale for two reagents
@@ -19,6 +20,9 @@
 	* Discovered by Belousov in 1959: _A periodic reaction and its mechanism_
 	* Theory by Nicolis and Prigogine 1977: _Self-Organization in Nonequilibrium Systems_
 		* Due to detailed balance, oscillations only possible far from equilibrium
+
+* Kuramoto & Winfree model
+	* TODO find papers!!!
 
 ## System basics
 
@@ -43,16 +47,18 @@
 * Lehmann 1996: _On the Origin of Electrochemical Oscillations at Silicon Electrodes_
 	* A stress dependent transition occurs; from a flat, dense, isolating layer to a rough structure of a certain thickness. As a result, ionic permeability and the etch rate increase.
 
+Show a CV of the model
+Say which type of oxide is forming when
 
 ## Coupling mechanism
 
 * Chazalviel 1992: _The p-Si/fluoride interface in the anodic region: damped and/or sustained oscillations_
-	* External resistance means more coupling and more oscillations
+	* External resistance means global coupling and more oscillations
 
 * Patzauer 2017: _Autonomous Oscillations and Pattern Formation with Zero External Resistance during Silicon Electrodissolution_
 	* Holes as non-local coupling
 
-## Birhythmicity and chimeras
+## Spatio-temporal pattern formation / self organisation
 
 * Decroly 1982: _Birhythmicity, chaos, and other patterns of temporal self-organization in a multiply regulated biochemical system_
 
@@ -62,8 +68,6 @@
 
 * Wiehl 2021: _Birhythmicity, intrinsic entrainment, and minimal chimeras in an electrochemical experiment_
 
-
-## Spatial patterns
 
 
 
@@ -77,3 +81,8 @@
 ##### Phase Response Curves
 * Efimov 2015: _Phase resetting for a network of oscillators via phase response curve approach_
 	* It's possible to control a network if we know the PRCs of constituent oscillators
+
+
+##### Frequency clusters
+* when are the holes free to move?
+* !!!adaptive coupling!!!; splay states; the holes are basically a hidden variable that influences the visible ones; we can't measure holes, only simulate them; holes are diffusing non-uniformly, for some reason preferring spots with high-amplitude oscillations
