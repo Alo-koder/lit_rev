@@ -1,5 +1,5 @@
 
-
+![[tosolini_bifur_diagram.png]]
 citation: ```
 ```
 @article{tosolini2019,
@@ -10,7 +10,7 @@ citation: ```
   number={4},
   year={2019},
   publisher={AIP Publishing},
-  doi={https://doi.org/10.1063/1.5090118},
+  doi={![[Pasted image 20231207130935.png]]},
 }
 ```
  
