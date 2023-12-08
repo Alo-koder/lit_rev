@@ -57,13 +57,18 @@
 	* Essential variables are capacitance and potential drop across the surface (oxide); variation in potential drop is caused by changing structure of the oxide.
 	* Feedback loops discussed -- nice diagram
 
-Show a CV of the model
+#TODO Show a CV of the model
 Say which type of oxide is forming when
+Actually find a citation for it, could be Juliane or sb else but better find the first result like this. Gerischer???
 
 ## Coupling mechanism
 
 * Chazalviel 1992: _The p-Si/fluoride interface in the anodic region: damped and/or sustained oscillations_
-	* External resistance means global coupling and more oscillations
+	* External resistance means more oscillations
+
+* Carstensen 1999: _A Model for Current-Voltage Oscillations at the Silicon Electrode and Comparison with Experimental Results_
+	* Also an oscillation model, maybe should be in section above
+	* He says stuff about local coupling 🤦‍♂️
 
 * Patzauer 2017: _Autonomous Oscillations and Pattern Formation with Zero External Resistance during Silicon Electrodissolution_
 	* Holes as non-local coupling
