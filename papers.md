@@ -47,6 +47,16 @@
 * Lehmann 1996: _On the Origin of Electrochemical Oscillations at Silicon Electrodes_
 	* A stress dependent transition occurs; from a flat, dense, isolating layer to a rough structure of a certain thickness. As a result, ionic permeability and the etch rate increase.
 
+* Liu 2013: _Mechanism and dissolution rates of anodic oxide films on silicon_
+	* Not about oscillations!!!
+	* Rate of oxide dissolution is controlled by removal of dissolved products
+
+* Zensen/Krischer 2014 : _A capacitance mediated positive differential resistance oscillator model for electrochemical systems involving a surface layer_:
+	* Builds up on on Liu
+	* Proposes a general, more theoretical model
+	* Essential variables are capacitance and potential drop across the surface (oxide); variation in potential drop is caused by changing structure of the oxide.
+	* Feedback loops discussed -- nice diagram
+
 Show a CV of the model
 Say which type of oxide is forming when
 
