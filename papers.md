@@ -8,6 +8,11 @@
 
 ## Quasi Theoretical Foundations
 
+* Joule 1844: _XX. On the intermittent character of the voltaic current in certain cases of electrolysis; and on the intensities of various voltaic arrangements_
+	* I mean, its 1844, so cool 😎
+	* He observed oscillations during oxygen evolution on iron
+	* Two iron electrodes connected to the same source would synchronise
+
 * Turing 1952: _The chemical basis of morphogenesis_
 	* Predicts/explains that chemical oscillations can only occur when there's a significant difference between concentration timescale for two reagents
 	* For our system, potential is the other 'reagent' -- that's why it works
