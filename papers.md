@@ -26,8 +26,18 @@
 	* Theory by Nicolis and Prigogine 1977: _Self-Organization in Nonequilibrium Systems_
 		* Due to detailed balance, oscillations only possible far from equilibrium
 
-* Kuramoto & Winfree model
-	* TODO find papers!!!
+
+* Winfree 1967: _Biological Rhythms and the Behavior of Populations of Coupled Oscillators_
+	* More discrete approach: phase builds up, then after reaching a threshold the oscillator bursts and instantly affects phases of others
+	* "Sensitivity Function" $Z(\phi)$ -- change in instantaneous frequency as a result of infinitesimal perturbation (stimulus)
+	* result 1: any such system will synchronise (entrain) to arbitrarily small periodic input, given that input's period is close enough to $T$
+
+* Kuramoto model
+	* Acebron 2005: _The Kuramoto model: A simple paradigm for synchronization phenomena_
+	* Smooth phase oscillators (each described by 1 variable only), globally coupled to each other. 
+	* Phase evolution equation: $$\dot{\theta_i} = \omega_i + \sum_{j=1}^{N} K_{ij} \sin (\theta_j - \theta_i)$$
+	* Choice of matrix $K$ determines type of coupling: nearest-neighbour, global, random long range... many many options
+	* Non-trivial, but still solvable analytically, which is a great achievement
 
 ## System basics
 
@@ -39,8 +49,9 @@
 	* _Second_ paper about the process in general
 	* Already mentions oscillations
 
-* Gerischer 1988: _Electrolytic Growth and Dissolution of Oxide Layers on Silicon in Aqueous Solutions of Fluorides_
+* Gerischer (and Lübke) 1988: _Electrolytic Growth and Dissolution of Oxide Layers on Silicon in Aqueous Solutions of Fluorides_
 	* Confirms the crucial role of electron holes in the reaction of illuminated n-type silicon
+	* Doesn't say anything about these mediating coupling
 
 ## Oscillation mechanism models
 
@@ -55,6 +66,7 @@
 * Liu 2013: _Mechanism and dissolution rates of anodic oxide films on silicon_
 	* Not about oscillations!!!
 	* Rate of oxide dissolution is controlled by removal of dissolved products
+	* Referenced by Zensen
 
 * Zensen/Krischer 2014 : _A capacitance mediated positive differential resistance oscillator model for electrochemical systems involving a surface layer_:
 	* Builds up on on Liu
@@ -71,16 +83,25 @@ Actually find a citation for it, could be Juliane or sb else but better find the
 * Chazalviel 1992: _The p-Si/fluoride interface in the anodic region: damped and/or sustained oscillations_
 	* External resistance means more oscillations
 
+* Lewerenz 1997: _Spatial and Temporal Oscillation at Si(111) Electrodes in Aqueous Fluoride-Containing Solution_
+	* Two experiments: synchronisation of two large oscillating domains, either fully connected or separated with a 3.5mm epoxy layer. First one synchronises, second doesn't. Lewerenz claims it implies that coupling through electrolyte is important. However this doesn't need to be the case -- he didn't consider coupling through electron holes. We do stirred experiments and still have this.
+
 * Carstensen 1999: _A Model for Current-Voltage Oscillations at the Silicon Electrode and Comparison with Experimental Results_
 	* Also an oscillation model, maybe should be in section above
-	* He says stuff about local coupling 🤦‍♂️
+	* He says stuff about local coupling
+
+* Schönleber 2014: _Pattern formation during the oscillatory photoelectrodissolution of n-type silicon: turbulence, clusters and chimeras_
+	* 
 
 * Patzauer 2017: _Autonomous Oscillations and Pattern Formation with Zero External Resistance during Silicon Electrodissolution_
 	* Holes as non-local coupling
+	* Patterns observed on the electrode; they have one frequency, just different phases. Makes lots of sense given no external resistance.
 
 ## Spatio-temporal pattern formation / self organisation
 
 * Decroly 1982: _Birhythmicity, chaos, and other patterns of temporal self-organization in a multiply regulated biochemical system_
+
+* Spatial pattern formation: again Schönleber and Patzauer
 
 * Schönleber 2012: _High-Amplitude versus Low-Amplitude Current Oscillations during the Anodic Oxidation of p-Type Silicon in Fluoride Containing Electrolytes
 
